@@ -1,1 +1,1 @@
-var age = 14;
+const age = 14
